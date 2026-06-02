@@ -427,7 +427,6 @@ export default function PortalPage() {
                     fontSize: "16px",
                   }}
                 >
-                  🔍
                 </span>
                 <input
                   type="text"
