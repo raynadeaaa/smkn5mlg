@@ -11,7 +11,7 @@ const jurusan = [
     warna: "#8B5A2B",
     aksen: "#D4A373",
     bg: "#FFF8F0",
-    image: "/images/gambar1.png",
+    image: "public/images/gambar1.png",
   },
   {
     id: "keramik",
